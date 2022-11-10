@@ -1,1 +1,5 @@
 .DS_Store
+/CMakeLists.txt
+/problem-solving/test.cpp
+/cmake-build-debug/
+/.idea

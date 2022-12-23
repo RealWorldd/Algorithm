@@ -1,7 +1,6 @@
 #include "iostream"
 #include "vector"
 using namespace std;
-
 int main (){
     int n, x;
     vector<int> v;
@@ -17,6 +16,5 @@ int main (){
     for (auto i: v) {
         cout << i << " ";
     }
-
     return 0;
 }
